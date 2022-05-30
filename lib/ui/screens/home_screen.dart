@@ -120,7 +120,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           height: _screenHeight,
                           width: _screenWidth,
                           postType: PostType.values[index],
-                          title: ,
+                          title: 'fff',
                         ),
                       ),
                     )
